@@ -1,6 +1,6 @@
 ---
 name: Sarah Quiñones El Kazdadi
-webpage: https://sarah.quinones
+webpage: https://github.com/sarah-quinones
 affil: Inria
 affil_link: https://inria.fr
 # img: sarah.jpg
