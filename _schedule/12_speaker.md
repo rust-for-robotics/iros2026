@@ -6,7 +6,7 @@ title: "Faer: Linear Algebra Project for Rust"
 # webpage: https://jane.doe
 # affil: Buzz University
 # affil_link: https://buzz.edu
-img: avatar.jpg
+img: sarah.png
 # affil2: BuzzFizz Corp
 # affil2_link: https://buzzfizz.corp
 ---

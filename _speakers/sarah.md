@@ -1,9 +1,9 @@
 ---
 name: Sarah Quiñones El Kazdadi
-webpage: https://github.com/sarah-quinones
+webpage: https://sarah-ek.veganb.tw/
 affil: Inria
 affil_link: https://inria.fr
-# img: sarah.jpg
+img: sarah.png
 ---
 
 <!-- Whatever you write below will show up as the speaker's bio -->
