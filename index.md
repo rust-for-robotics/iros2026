@@ -3,14 +3,14 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 permalink: /
-title: "Rust for Robotics: <br/>Practical Pathways Through the Emerging Ecosystem"
-subtitle: "ICRA 2026 Workshop | Monday, June 1, 2026 | 8:00 AM - 5:30 PM"
+title: "Why Rust for Robotics: </br>A Perspective From Industry"
+subtitle: "IROS 2026 Workshop | September 27, 2026 | 8:00 AM - 5:30 PM"
 layout: home
 ---
 
 <div class="img-wrapper">
 <div class="img-container">
-    <img src="{{ site.baseurl }}/assets/img/icra.png" height="100" style="object-fit: contain;"/>
+    <img src="{{ site.baseurl }}/assets/img/iros.webp" height="100" style="object-fit: contain;"/>
 </div>
 <div class="img-container">
     <img class="middle-img" src="{{ site.baseurl }}/assets/img/rust.png" height="100" style="object-fit: contain;"/>
@@ -21,7 +21,9 @@ layout: home
   Rust for Robotics is not officially affiliated with the Rust Foundation.
 </p>
 
-This full-day workshop will cover the potential value of Rust to solve current challenges in robotics software development. Led by industry leaders, academics, and open-source contributors, the workshop will cover
+This full-day workshop investigates why so many in industry are choosing Rust as their stack of choice and what pitfalls or success stories they have encountered in doing so. In addition, we seek to discuss what barriers are preventing Rust adoption in academia and discuss how many of the successes of industry adoption can be adapted to academic settings.
+
+More specifically, we will discuss
 - Rust's value proposition for robotics, 
 - Adoption challenges with legacy systems, 
 - Role in research and education, 
@@ -30,7 +32,7 @@ This full-day workshop will cover the potential value of Rust to solve current c
  
 Participants, including those unfamiliar with Rust, will gain a better understanding of how Rust can aid in developing robust robotics systems through presentations, interactive code demonstrations, panels, and poster sessions. Targeting software engineers, researchers, educators, and students, this workshop is focused on helping progress the adoption and development of robotics software written in Rust, thereby helping catalyze a shift towards safer and more reliable autonomous systems.
 
-This workshop will include 8 invited talks, a panel discussion, an "unconference" session, and a poster session.
+This workshop will include 8 invited talks, a panel discussion, a live demonstration, and a poster session.
 <br>
 <br>
 

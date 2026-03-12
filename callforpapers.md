@@ -4,7 +4,7 @@ title: Call for Contributions
 permalink: /callforpapers/
 ---
 
-The **Rust for Robotics** workshop at ICRA 2025 invites high-quality contributions that explore the use of **Rust** in robotics applications. Unlike other research-based workshops, poster submissions needn't include a novel research component, but rather well-built robotics projects completed in Rust. For example, this could include:
+The **Rust for Robotics** workshop at IROS 2025 invites high-quality contributions that explore the use of **Rust** in robotics applications. Unlike other research-based workshops, poster submissions needn't include a novel research component, but rather well-built robotics projects completed in Rust. For example, this could include:
 - Rust for real-time and embedded robotics systems
 - Rust-based robotics middleware and frameworks
 - Control, planning, and perception softwares using Rust
@@ -20,14 +20,14 @@ If possible, we recommend including a live demonstration of said library, system
 
 ## Submission Guidelines
 
-Participants are invited to submit papers presenting Rust-related research or projects relevant to robotics. Submissions should be in the form of an extended abstract (maximum 4 pages in ICRA format, including references). Authors may also submit an optional 2-3 minute video presentation if their work involves visual elements (e.g., robot operations, visualizations).
+Participants are invited to submit papers presenting Rust-related research or projects relevant to robotics. Submissions should be in the form of an extended abstract (maximum 4 pages in IROS format, including references). Authors may also submit an optional 2-3 minute video presentation if their work involves visual elements (e.g., robot operations, visualizations).
 
 Accepted papers will be published on the workshop website, and authors will be required to present a poster at the workshop (in-person or remotely).
 
 Submission format:
-- Extended abstract: maximum 4 pages (ICRA format, including references)
+- Extended abstract: maximum 4 pages (IROS format, including references)
 - Optional: 2-3 minute video presentation
-- Template: [ICRA submission template](https://ras.papercept.net/conferences/support/files/ieeeconf.zip)
+- Template: [IROS submission template](https://ras.papercept.net/conferences/support/files/ieeeconf.zip)
 
 
 ## Submission Process

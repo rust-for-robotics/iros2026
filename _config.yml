@@ -21,7 +21,7 @@
 title: Rust for Robotics 2026
 email: potokar@cmu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Rust for Robotics ICRA 2026
+  Rust for Robotics IROS 2026
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: rethinkmlpapers
