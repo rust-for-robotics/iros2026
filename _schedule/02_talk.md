@@ -1,6 +1,6 @@
 ---
 sequence_id: 2
-speaker: Bedrock Robotics
+speaker: Joshua Manela
 time: 09:15 – 09:45
 title: TBD
 # webpage: https://jane.doe

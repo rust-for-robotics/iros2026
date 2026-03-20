@@ -1,5 +1,5 @@
 ---
-name: TBD
+name: Joshua Manela
 # webpage: https://sarah.quinones
 affil: Bedrock Robotics
 affil_link: https://bedrockrobotics.com/
