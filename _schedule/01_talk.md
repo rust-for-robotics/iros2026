@@ -1,14 +1,14 @@
 ---
 sequence_id: 1
-speaker: Marco Ieni
+speaker: Angelo Corsaro
 time: 08:45 – 09:15
-title: "Why Rust: What's behind the hype"
+title: "Rust in Robotics: Challenges and Opportunities."
 # webpage: https://jane.doe
 # affil: Buzz University
 # affil_link: https://buzz.edu
-img: marco.png
+img: angelo.png
 # affil2: BuzzFizz Corp
 # affil2_link: https://buzzfizz.corp
 ---
 
-In this talk we'll see why everyone keeps annoying you with the Rust programming language and what's behind all the hype. What companies use Rust and what are they doing with it? What Rust developers love about the language and what are its pain points? Why are more and more companies switching from C++ to Rust and how do the two languages compare?
+This talk will share the experience in using Rust to build the Zenoh, which is one of the most popular protocols in Robotics. Specifically, I will discuss some of the key advantages that Rust has brought us along with the challenges, especially those posed by async frameworks in the context of real-time and embedded systems. The talk will discuss a set recommended extensions and additional requirements to make async Rust a true asset in robotics.
