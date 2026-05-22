@@ -32,11 +32,13 @@ Submission format:
 
 ## Submission Process
 
-All submissions must be made to OpenReview (link pending). Submissions must include:
+All submissions must be made to [OpenReview](https://openreview.net/group?id=IEEE.org/IROS/2026/Workshop/R4R#tab-your-consoles). Submissions must include:
 - Required: Upload a PDF containing the extended abstract.
 - Optional: Upload a ZIP file (up to 100MB) with any supplementary material (such as a video presentation).
 
 Please direct any questions to the workshop organizers.
+
+*NOTE: Creating an OpenReview account may take up to [two weeks](https://docs.openreview.net/getting-started/frequently-asked-questions/why-does-it-take-two-weeks-to-moderate-my-profile) if not done with an academic email. Please plan accordingly.*
 
 ## Important Dates (AoE)
 - Submission deadline: August 14th, 2026 11:59 (AoE)
