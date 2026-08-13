@@ -41,6 +41,6 @@ Please direct any questions to the workshop organizers.
 *NOTE: Creating an OpenReview account may take up to [two weeks](https://docs.openreview.net/getting-started/frequently-asked-questions/why-does-it-take-two-weeks-to-moderate-my-profile) if not done with an academic email. Please plan accordingly.*
 
 ## Important Dates (AoE)
-- Submission deadline: August 14th, 2026 11:59 (AoE)
-- Notification of acceptance: August 28th, 2026
-- Workshop date: September 27th or October 1st, 2026 (TBD)
+- Submission deadline: ~~August 14th, 2026 11:59 (AoE)~~ August 28th, 2026 11:59 (AoE)
+- Notification of acceptance: ~~August 28th, 2026~~, September 11th, 2026
+- Workshop date: September 27th
