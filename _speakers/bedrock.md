@@ -1,5 +1,5 @@
 ---
-name: Joshua Manela
+name: Georges Goetz
 # webpage: https://sarah.quinones
 affil: Bedrock Robotics
 affil_link: https://bedrockrobotics.com/

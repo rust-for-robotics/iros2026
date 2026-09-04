@@ -1,6 +1,6 @@
 ---
 sequence_id: 2
-speaker: Joshua Manela
+speaker: Georges Goetz
 time: 09:15 – 09:45
 title: "Deploying a Behavior Policy on a 115,000 Pound Robot: What Rust Governs, and What It Doesn't"
 # webpage: https://jane.doe
