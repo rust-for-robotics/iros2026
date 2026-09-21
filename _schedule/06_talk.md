@@ -1,14 +1,14 @@
 ---
 sequence_id: 6
-speaker: Edgar Riba
+speaker: Tim Saucer
 time: 11:00 – 11:30
-title: "From PyTorch to the Edge: Rust-Native Computer Vision and Robotics with Kornia"
+title: "Rust in the Wild: Lessons from Building Production Robotics Software"
 # webpage: https://jane.doe
 # affil: Buzz University
 # affil_link: https://buzz.edu
-img: edgar.jpeg
+img: tim.jpeg
 # affil2: BuzzFizz Corp
 # affil2_link: https://buzzfizz.corp
 ---
 
-After six years building Kornia as a differentiable CV library for PyTorch, we've been rebuilding the stack in Rust. This talk covers kornia-rs for real-time computer vision on the edge, Bubbaloop — an open-source orchestration runtime for cameras, sensors, and ML inference on local hardware — and an early look at kornia-slam, our work-in-progress visual SLAM library. We'll share walkthroughs of real deployments on Jetson and Raspberry Pi, results from Kornia AI's Google Summer of Code program, and how a non-profit umbrella sustains a growing portfolio of open-source robotics infrastructure.
+Most arguments for Rust in robotics start with memory safety and benchmarks. This talk starts with production. Drawing on work across industrial robotics, government autonomy programs, autonomous vehicles, and physical AI data infrastructure at Rerun, it covers what Rust actually delivers once you're shipping: fewer bad patterns surviving to production, faster iteration through compile-time feedback, and — for distributed remote teams — the ability to merge across time zones with genuine confidence.

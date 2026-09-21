@@ -1,7 +1,7 @@
 ---
-sequence_id: 12
+sequence_id: 11
 speaker: Yuyuan Yuan
-time: 15:15 – 15:45
+time: 15:00 – 15:30
 title: "From ROS to Rust: Hiroz, Zenoh, and a Robotics Stack You Can `cargo build`"
 # webpage: https://jane.doe
 # affil: Buzz University

@@ -4,7 +4,7 @@
 
 permalink: /
 title: "Why Rust for Robotics: </br>A Perspective From Industry"
-subtitle: "IROS 2026 Workshop | September 27, 2026 | 8:00 AM - 5:30 PM"
+subtitle: "IROS 2026 Workshop | September 27, 2026 | 8:30 AM - 5:30 PM"
 layout: home
 ---
 
