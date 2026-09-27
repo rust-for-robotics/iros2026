@@ -1,7 +1,7 @@
 ---
 sequence_id: 15
 speaker: Organizers
-time: 17:0 – 17:30
+time: 17:00 – 17:30
 title: Closing Remarks
 # webpage: https://jane.doe
 # affil: Buzz University

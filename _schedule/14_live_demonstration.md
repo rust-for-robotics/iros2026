@@ -11,4 +11,4 @@ img: rust.png
 # affil2_link: https://buzzfizz.corp
 ---
 
-Live coding demonstration writing a sensor driver in Rust. This will be LLM-aided to allow for brevity along with a demonstration of common Rust workflows, e.g., usage of cargo in the developmental workflow for dependency management, building, linting, and testing. The end result will be open-sourced as a reference for all attendees moving forward.
+Live demonstration of a robotics stack written in Rust. 
