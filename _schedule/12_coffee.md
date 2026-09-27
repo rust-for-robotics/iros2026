@@ -1,7 +1,7 @@
 ---
 sequence_id: 12
 speaker: Misc
-time: 15:30 – 15:45
+time: 15:30 – 16:00
 title: Coffee Break
 # webpage: https://jane.doe
 # affil: Buzz University

@@ -1,7 +1,7 @@
 ---
 sequence_id: 13
 speaker: Florian Gilcher
-time: 15:45 – 16:15
+time: 16:00 – 16:30
 title: Executing Safety critical Robotics projects in Rust
 # webpage: https://jane.doe
 # affil: Buzz University

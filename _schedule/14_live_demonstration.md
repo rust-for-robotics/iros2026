@@ -1,7 +1,7 @@
 ---
 sequence_id: 14
 speaker: Organizers
-time: 16:15 – 17:15
+time: 16:30 – 17:00
 title: Live Demo
 # webpage: https://jane.doe
 # affil: Buzz University
